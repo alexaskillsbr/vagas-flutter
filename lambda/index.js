@@ -9,7 +9,7 @@ const LaunchRequestHandler = {
         return Alexa.getRequestType(handlerInput.requestEnvelope) === 'LaunchRequest';
     },
     handle(handlerInput) {
-       return axios.get('https://api.github.com/repos/flutter-brasil/vagas/issues', {
+       return axios.get('https://api.github.com/repos/flutter-brazil/vagas/issues', {
                 params: {
                     state: 'open',
                     per_page: 5

@@ -1,7 +1,7 @@
 {
   "name": "vagas-flutter",
   "version": "1.0.0",
-  "description": "Resumo das últimas vagas relacionadas com flutter postadas no https://github.com/flutter-brasil/vagas",
+  "description": "Resumo das últimas vagas relacionadas com flutter postadas no https://github.com/flutter-brazil/vagas",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
