@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/4256471/67163752-01362a80-f349-11e9-80a2-bbe328d0c201.png">
+  <img width="100%" src="https://user-images.githubusercontent.com/4256471/67254676-c0c3d300-f454-11e9-9846-644399816f39.png">
 </p>
 
-Para um resumo das vagas relacionadas com flutter nos seus dispositivos equipados com Alexa, diga:
+Essa skill irá fazer um resumo das últimas vagas relacionadas com flutter postadas no https://github.com/flutter-brazil/vagas. Você pode executar essa skill em qualquer dispositivo Amazon Echo.
 
 > Alexa, vagas flutter
